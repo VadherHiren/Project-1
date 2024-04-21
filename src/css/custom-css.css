@@ -1,0 +1,48 @@
+/* .back-img{
+    background-image: url("/img/hero/banner.jpg");
+} */
+
+.set-bg-img {
+	background-image: url("/public/images/ban-2.webp") !important;
+}
+
+.featured-product-img{
+    background-image: url("/public/images/p-1.jpg");
+}
+.f-p-i2{
+    background-image: url("/public/images/p-2.jpg");
+}
+.f-p-i3{
+    background-image: url("/public/images/p-3.webp");
+}
+.f-p-i4{
+    background-image: url("/public/images/p-4.jpg");
+}
+.f-p-i5{
+    background-image: url("/public/images/p-5.jpg");
+}
+.f-p-i6{
+    background-image: url("/public/images/p-3.webp");
+}
+.f-p-i7{
+    background-image: url("/public/images/p-2.jpg");
+}
+.f-p-i8{
+    background-image: url("/public/images/p-1.jpg");
+}
+
+.hero__categories ul {
+    /* border: 1px solid #ebebeb; */
+    padding-left: 0px !important;
+    /* padding-top: 10px;
+    padding-bottom: 12px; */
+}
+.banner__pic-img{
+    width: 90%;
+    height: 280px;
+}
+.blog-img{
+    width: 300;
+    height: 300px;
+}
+

@@ -1,0 +1,5 @@
+
+
+// npm i react-bootstrap bootstrap ------------(for bootstrap)
+// npm i react-router-dom  --------------------(for router).
+// npm install react-icons --save  (for icons)
